@@ -31,7 +31,7 @@ public class PasswordResetController {
     @Autowired
     private RegRepository userRepository;
 
-//    @PostMapping("/forgot-password")
+//    @PostMapping("/forgot-password")...
 //    public ResponseEntity<String> forgotPassword(@RequestParam String email) {
 //        resetService.sendPasswordResetEmail(email);
 //        return ResponseEntity.ok("Password reset link has been sent to your email.");
